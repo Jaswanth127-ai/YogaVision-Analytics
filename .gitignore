@@ -1,0 +1,5 @@
+yoga_env/
+__pycache__/
+*.pyc
+Recording*.*
+.env
